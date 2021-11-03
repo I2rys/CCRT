@@ -1,5 +1,5 @@
 //Main
-function area(shape, width, height) {
+function area(shape, width, height){
     var area = 0
   
     if(shape === "triangle"){
